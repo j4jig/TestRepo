@@ -14,6 +14,7 @@ class CustomCollectionViewCell: UICollectionViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        //new code added for jenkins test.
     }
 
 }
